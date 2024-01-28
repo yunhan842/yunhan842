@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Yun Han
 - I am a passionate Computer Engineering & Computer Science student at USC
+- Currently a first-gen freshman
 - My hometown is Dallas, TX
 - 👀 I’m interested in learning about both frontend and backend development, web development, and more skills in OOP languages
 - 💬 Ask me about C/C++, Java, and Python
