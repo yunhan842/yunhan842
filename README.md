@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Yun Han
-- I am a passionate Computer Engineering & Computer Science student at USC
+- I am a passionate student at USC double majoring in Computer Engineering & Computer Science and Mathematics
 - Currently a first-gen freshman
 - My hometown is Dallas, TX
-- 👀 I’m interested in learning about both frontend and backend development, web development, and more skills in OOP languages
-- 💬 Ask me about C/C++, Java, and Python
-- 🌱 I’m currently learning more C++, discrete methods in computer science, and probability theory
+- 👀 I’m interested in learning about 
+- 💬 Ask me about C/C++, Java, Python, Linear Algebra, Calculus, Physics, and Probability Theory
+- 🌱 I’m currently learning more C++, discrete methods in computer science, probability theory, and stochastic processes
 - 📫 How to reach me: yunhan0527@gmail.com or yunhan@usc.edu
 - 📄 Know about my experiences: https://docs.google.com/document/d/16eIdDoxKquVRjCP3QMT9PKwqlz1QMWP5VdV_3VxpnMo/edit?usp=sharing 
 - 😄 Pronouns: He/Him
