@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yun Han
-- I am a passionate student at USC double majoring in Computer Engineering & Computer Science and Mathematics
-- Currently a first-gen freshman
+- I am a passionate student at USC double majoring in Computer Science and Applied/Computational Mathematics
+- Currently a first-gen sophomore
 - My hometown is Dallas, TX
 - 👀 I’m interested in learning about quantitative finance, including quantitative research and quantitative trading
 - 💬 Ask me about C/C++, Java, Python, Linear Algebra, Calculus, Physics, and Probability Theory
